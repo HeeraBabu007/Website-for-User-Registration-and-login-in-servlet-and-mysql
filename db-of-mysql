@@ -1,0 +1,3 @@
+create database ims;
+use ims;
+create table student(rollno int, name varchar(50), email varchar(50), password varchar(50));
